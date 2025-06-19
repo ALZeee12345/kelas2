@@ -28,6 +28,9 @@ function type() {
 
 type();
 
+
+
+
 var swiper = new Swiper(".centered-slide-carousel", {
     centeredSlides: true,
     paginationClickable: true,
